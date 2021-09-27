@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## This is Me
 
-You can use the [editor on GitHub](https://github.com/NazirahAbdunlah/FirstProject/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello my name is **Nazirah bte Abdunlah @ Nur Rabihah Maulad Pg Alias**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+- 🙌 I'm currently : **Unemployed**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 Born : **5th December 1993**
 
-```markdown
-Syntax highlighted code block
+- 💬 About me: **A National Diploma holder on Plant Engineering & Had work with various of company under oil&gas**
 
-# Header 1
-## Header 2
-### Header 3
+- 📫 How to reach me:
 
-- Bulleted
-- List
+    * [**Drop a Mail**](mailto:behpga@gmail.com)
 
-1. Numbered
-2. List
+    * [**Visit my Website**](https://nazirahabdunlah.github.io/FirstProject/)
+    
 
-**Bold** and _Italic_ and `Code` text
+- ⚡ Fun Facts: 
 
-[Link](url) and ![Image](src)
-```
+    **I skip my graduation day and start my new job as logistic offhore at Champion 7**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NazirahAbdunlah/FirstProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    **I was born in Malaysia**
+    
+    
+    
+    
+    **If you're still reading, I really hope you'll be giving me the opportunity to join your team**
