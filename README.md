@@ -7,7 +7,7 @@ Hello my name is **Nazirah bte Abdunlah @ Nur Rabihah Maulad Pg Alias**
 
 - 🔭 Born : **5th December 1993**
 
-- 💬 About me: **A National Diploma holder on Plant Engineering & Had work with various of company under oil&gas**
+- 💬 About me: **A National Diploma holder on Plant Engineering & Had work with various of companies under Oil & Gas**
 
 - 📫 How to reach me:
 
@@ -25,4 +25,4 @@ Hello my name is **Nazirah bte Abdunlah @ Nur Rabihah Maulad Pg Alias**
     
     
     
-    **If you're still reading, I really hope you'll be giving me the opportunity to join your team**
+ -If you're still reading, I really hope you'll be giving me the opportunity to join your team-
